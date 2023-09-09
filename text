@@ -1,0 +1,94 @@
+<div class="relative">   <img src="img/صوره بنت.jpg"  width="" height="">
+
+<div class=" position"> 
+    <h1 class="heading"> البيع ينتهي اليوم</h1>
+    <h3 class="heading"> قم بتسجيل الدخول وابدأ في استكشاف إمكانيات جديدة لمستقبلك.</h3>
+        
+      <h3 class="heading" > احفظ على الدورات الآن.</h3>
+</div>
+</div>
+
+
+
+ .relative{
+    position: relative;
+    width: 100%;
+    margin-left: 100px;
+  }
+
+  .position{
+    position: absolute;
+bottom: 200px;
+left: 90px;
+background-color: white;
+width: 530px;
+box-shadow: 0 4px 8px 0 rgb(235, 229, 229)   ,     0 6px 20px 0 rgb(233, 222, 222) ; 
+
+  }
+  
+ .heading{
+position: relative;
+left: 50px;
+ }
+
+
+
+        <div class="topnav">
+            <a class="active" href="#home"><img src="img/logo-udemy.svg" width="100px"> </a>
+            <a class="new" href="#news"> فئات</a>
+           
+            <a class="new"    href=" " > </a>
+          </div>
+
+
+ <div> <img src=" " width=" " height=" "> </div>
+
+<section class="aicon">
+        <div><img src="img/lohp-category-personal-development-v2.jpg" width="250"></div>
+        <div><img src="img/lohp-category-development-v2.jpg" width="250"></div>
+        <div> <img src="img/lohp-category-design-v2.jpg" width="250"></div>
+        <div> <img src="img/lohp-category-business-v2.jpg" width="250"></div>
+    </section>
+     
+
+
+    <section class="gray">
+
+      <img style="position: relative; left: 950px; top: 80px; border-radius: 130px;" src="img/James_Hemgen (1).jpeg " width="170px"> 
+      
+  </section>
+
+
+  .gray{
+    background-color: rgb(241, 241, 241);
+     height: 400px;
+    position: relative ;bottom:180px;
+}
+
+.boy{
+    background-color: white;
+    position: relative;top: 100px;
+}
+
+
+
+
+
+
+
+
+
+                        <a class="pessnes" href="#"><h4> يودمي بيزنس</h4> </a>
+
+                        <a class="pessnes" href="#"><h4> التدريس عليudemy</h4> </a>
+    
+                          <a  class="shopping" href="#" > <i class="fa-solid fa-cart-shopping"></i></a>
+    
+
+
+
+
+
+
+
+
